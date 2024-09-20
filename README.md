@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Damla, a freshman at Bilkent University. I study Computer Science, and I'm very exited for it!
 
 <!--
 **damlaatar/damlaatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
